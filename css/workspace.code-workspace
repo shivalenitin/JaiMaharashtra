@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\eCommerceWebSite"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JaiMaharashtraHardwareShop"
+	}
+}
